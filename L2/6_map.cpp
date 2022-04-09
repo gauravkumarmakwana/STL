@@ -36,8 +36,25 @@ int main(int argc, char const *argv[])
     }
     cout<<mpp.count("Gaurav")<<endl;//-> 1
     //If Gaurav in map this will return 1 or 0
-    // cout<<mpp.count(16)<<endl;
+    // cout<<mpp.count(16)<<endl; // count function will return the count of second element.
     mpp.clear();
-    cout<<mpp.empty()<<endl;  //If mpp is empty this will return 1 else 0
+    cout<<mpp.empty()<<endl;  //If mpp is empty this will return true or false.
+    
+    // erase function --> mpp.erase(key);
+    // in argument we will provide key value and function will erase whole pair with given value.
+    mpp.erase("Pago");
+    for(auto it:mpp){
+        cout<<it.first<<"  "<<it.second<<endl;
+    }
+    /*  
+    Raj 29;
+    Gaurav 30
+    Reniyo 18
+    Dhano 16
+    Rahul 1
+    Bravo 45
+    Vishal 45
+    */
+    
     return 0;
 }
