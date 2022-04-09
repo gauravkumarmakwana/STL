@@ -23,8 +23,8 @@ int main(int argc, char const *argv[])
 
 // Find the maximum number in array using inbuilt function
 
-    int max_el = *max_element(a, a+len);//Add two parameters 1. starting position & 2. end Poisition
-    int min_el = *min_element(a, a+len);
+    int max_el = *max_element(a, a+len);//Add two parameters 1. starting position & 2. end Poisition   --> O(n)
+    int min_el = *min_element(a, a+len); // --> O(n)
 
     cout<<"Min = "<<min_el<<'\n';//-> 1
     cout<<"Max = "<<max_el<<'\n';//-> 15
