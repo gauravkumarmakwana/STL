@@ -1,5 +1,5 @@
 // 9/09/2021 10:44
-// multiset doesnot sotre only unique value 
+// multiset doesnot store only unique value 
 // multiset store all value in sorting way 
 #include<bits/stdc++.h>
 using namespace std;
