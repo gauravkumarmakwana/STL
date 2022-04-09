@@ -1,6 +1,5 @@
 // 9/09/2021 10:23
 // unordered_set and set are work as a same 
-// Both are store unique value
 // But, set store value sorting way & unordered_set store value any way at any compiling time
 // all function work are same of set and unordered_set
 #include <bits/stdc++.h>
@@ -22,7 +21,7 @@ int main(int argc, char const *argv[]){
     {
         cout << i << " ";
     }//-> 1 2 3 5 6 7 
-    // print format are not same this will print any format
+    // this will print in any order whereas set print in sorted order
     cout << endl;
     return 0;
 }
