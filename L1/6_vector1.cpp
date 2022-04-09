@@ -9,7 +9,7 @@ int main(int argc, char const *argv[])
     vec.push_back(2);//-> {0, 2}
     vec.push_back(3);//-> {0, 2, 3}
     vec.emplace_back(5);//->{0, 2, 3, 5}
-    // Emplace_back and push back are work same but, emplace_back is less time 
+    // Emplace_back and push back are work same but, emplace_back take less time 
 
     vec.pop_back();//->{0, 2, 3}
     vec.pop_back();//-> {0, 2}
