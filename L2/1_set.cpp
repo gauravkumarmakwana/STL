@@ -17,7 +17,7 @@ int main(int argc, char const *argv[]){
     // {
     //     int x;
     //     cin >> x;
-    //     st.insert(x); //st.emplace(x); work as same but, emplace(x) is a faster
+    //     st.insert(x); //st.emplace(x); work as same but, emplace(x) is faster
     // }                 //-> {1, 2, 3, 5}
 
     //print using for loop
