@@ -12,12 +12,12 @@
 
 👉🏻 If You want to do some good changes then I will wait⏳ your pull request.
 
-## Thanks to all the contributors ❤️
+### Thanks to all the contributors ❤️
 <a href = "https://github.com/gauravkumarmakwana/STL/graphs/contributors">
   <img src = "https://contrib.rocks/image?repo=gauravkumarmakwana/STL"/>
 </a>
 
-## Connect with me
+### Connect with me
   
   <a href="https://www.linkedin.com/in/gauravbmakwana/" target = "_blank">
     <img width="30px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />
