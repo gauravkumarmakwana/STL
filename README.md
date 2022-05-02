@@ -19,14 +19,14 @@
 
 ## Connect with me
   
-  <a href="www.linkedin.com/in/gauravbmakwana">
+  <a href="https://www.linkedin.com/in/gauravbmakwana/" target = "_blank">
     <img width="30px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />
   </a>&ensp;
-  <a href="https://twitter.com/MakwanaGaurav12">
+  <a href="https://twitter.com/MakwanaGaurav12" target = "_blank">
     <img width="30px" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" />
   </a>&ensp;
   
-  <a href="https://www.instagram.com/gaurav_mak.exe/">
+  <a href="https://www.instagram.com/gaurav_mak.exe/" target = "_blank">
     <img width="30px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" />
   </a>&ensp;
 
