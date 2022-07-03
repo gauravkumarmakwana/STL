@@ -44,7 +44,11 @@ int main(int argc, char const *argv[])
     for(auto c : vec2){
         cout<<c<<" ";
     }//-> 10 10 10 10 15 num
-
+//     we can erase two way...
+//     1. vec2.erase(iterator);
+//     2.  vec2.erase(start iterator, end iterator);
+    vec2.erase(vec2.begin()+2); // erase elments at index 2
+//     vec2.erase(vec2.begin()+2, vec2.begin()+4);
     vec2.clear(); // Empty 
     for(auto c : vec2){
         cout<<c<<" ";
